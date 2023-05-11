@@ -1,0 +1,78 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+body{
+	padding-top: 50px;
+}
+.color1{
+	background-color: #000000 /* negro */
+}
+.color2{
+	background-color: #2E8B57; /* verde */ 
+}
+.color3{
+	background-color: #FF0000; /* rojo */
+}
+.color4{
+	background-color: #2ecc71; /* negro */
+}
+.color5{
+	background-color: #008000; /* negro */
+	margin-left: 90 px;
+}
+
+
+// CODIGO INSERTADO
+
+body {
+    padding-top: 50px;
+}
+
+.space {
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+}
+
+.white{
+    color: white;
+}
+
+.img1 {
+    margin: 0 -15px;
+}
+
+.img2 {
+    margin-left: 11px;
+}
+
+.video {
+    width: 108%;
+    height: 168px;
+    margin: 0 -15px;
+}
+
+.size{
+    width: 52%;
+    height: 168px;
+}
+
+.divr {
+    border-right: white 0.3em solid;
+}
+
+.divl {
+    border-left: white 0.3em solid;
+}
+
+
+.col3 {
+    width: 383px;
+    height: 168px;
+}
+
+.colD {
+    width: 140px;
+    height: 168px;
+}
+
